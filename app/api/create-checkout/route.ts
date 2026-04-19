@@ -46,7 +46,7 @@ export async function POST(req: NextRequest) {
 
     const baseUrl =
       process.env.NEXT_PUBLIC_BASE_URL ||
-      (req.headers.get('origin') ?? 'https://freshmoveleads.com')
+      (req.headers.get('origin') ?? 'https://freshmoveleads.net')
 
     const session = await stripe.checkout.sessions.create({
       mode: 'subscription',

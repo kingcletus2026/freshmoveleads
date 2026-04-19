@@ -29,10 +29,10 @@ export default function SuccessPage() {
           Check your email for your confirmation and account details. If you
           have any questions, reach us at{' '}
           <a
-            href="mailto:hello@freshmoveleads.com"
+            href="mailto:info@freshmoveleads.net"
             className="text-green-400 hover:text-green-300"
           >
-            hello@freshmoveleads.com
+            info@freshmoveleads.net
           </a>
           .
         </p>

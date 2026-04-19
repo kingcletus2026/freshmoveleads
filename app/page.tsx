@@ -421,10 +421,10 @@ export default function Home() {
 
             <div className="flex flex-col sm:flex-row items-center gap-4 text-gray-400 text-sm">
               <a
-                href="mailto:hello@freshmoveleads.com"
+                href="mailto:info@freshmoveleads.net"
                 className="hover:text-white transition-colors"
               >
-                hello@freshmoveleads.com
+                info@freshmoveleads.net
               </a>
               <span className="hidden sm:inline">·</span>
               <span>Pittsburgh, PA</span>

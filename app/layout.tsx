@@ -18,11 +18,11 @@ export const metadata: Metadata = {
     title: 'FreshMoveLeads — Exclusive New Homeowner Leads in Pittsburgh',
     description:
       'Weekly leads. Exclusive per category. No contract. One new customer pays for months of service.',
-    url: 'https://freshmoveleads.com',
+    url: 'https://freshmoveleads.net',
     siteName: 'FreshMoveLeads',
     type: 'website',
   },
-  metadataBase: new URL('https://freshmoveleads.com'),
+  metadataBase: new URL('https://freshmoveleads.net'),
 }
 
 export default function RootLayout({
